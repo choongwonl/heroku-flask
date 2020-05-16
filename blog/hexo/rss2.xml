@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>choongwonlee</title>
+    <link>https://choongwonlee.com/</link>
+    
+    <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>Personal blog</description>
+    <pubDate>Thu, 14 May 2020 10:20:00 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>유학 준비 할 때 팁 아닌 팁</title>
+      <link>https://choongwonlee.com/posts/2020/05/my-study-abroad-prep-tip/</link>
+      <guid>https://choongwonlee.com/posts/2020/05/my-study-abroad-prep-tip/</guid>
+      <pubDate>Thu, 14 May 2020 03:00:00 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;p&gt;&lt;em&gt;2020년 05월 14일 업데이트&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;전혀&lt;/strong&gt; 도움이 안될 수도 있는 팁 입니다. 생각나는 대로 업데이트 할 예정입니다.&lt;/p&gt;
+&lt;h2 id=&quot;지원서-작성-시&quot;&gt;&lt;a
+          
+        
+      
+      </description>
+      
+      
+      <comments>https://choongwonlee.com/posts/2020/05/my-study-abroad-prep-tip/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>비전공자의 컴퓨터과학 미국 석사 유학 도전기 01 (결심과 준비)</title>
+      <link>https://choongwonlee.com/posts/2020/05/my-study-abroad-prep-story-01/</link>
+      <guid>https://choongwonlee.com/posts/2020/05/my-study-abroad-prep-story-01/</guid>
+      <pubDate>Fri, 08 May 2020 13:30:00 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;blockquote&gt;
+&lt;p&gt;설포카(SPK)에서 학부를 나오지 않았다. 학점 4.xx이 되지 않는다. 직장 경험도 없다. 비전공자다. 나도 Computer Science 전공으로 미국 TOP50 학교에 석사 유학을 갈 수 있을까?
+          
+        
+      
+      </description>
+      
+      
+      <comments>https://choongwonlee.com/posts/2020/05/my-study-abroad-prep-story-01/#disqus_thread</comments>
+    </item>
+    
+  </channel>
+</rss>
